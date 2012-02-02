@@ -1,0 +1,21 @@
+This is the Blackjack coding challenge and a chance for you to impress us.
+Your mission is to use this project to implement a game of Blackjack using
+HTML, CSS, and JavaScript and submit it to the following e-mail address no
+later than February 13th, 2012:
+
+                       utchallenge@evernote.com
+
+Feel free to bend the Blackjack rules, simplify, or make up your own, and find
+cool and creative ways to do things like shuffling cards and displaying the
+cards on screen - it's up to you.  Make sure that if you do something
+different, you provide instructions on how your game is played.
+
+The project for this coding challenge is located at the following URL:
+
+https://github.com/Evernote-Austin/BlackjackChallenge
+
+You will find the code to get you started in the html/ directory.  The project
+was created as a Qt Creator HTML 5 app in case you wish to add any native hooks
+to your game.  However, it is perfectly acceptable if decide to only play with
+the code in the html/ directory.
+
