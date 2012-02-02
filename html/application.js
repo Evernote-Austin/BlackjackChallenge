@@ -30,7 +30,7 @@ BlackjackView.prototype.drawCard = function (card) {
     this.ctx.restore();
 
     var suit = card.suit.symbol;
-    var name = card.value.name.toUpperCase();
+    var name = card.value.symbol.toUpperCase();
 	
     this.ctx.save();
     this.ctx.fillStyle = 'rgba(204, 0, 51, 1)';

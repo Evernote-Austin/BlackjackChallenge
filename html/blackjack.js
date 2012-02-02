@@ -18,19 +18,19 @@ CardSuit.ALL_VALUES = [
  * The CardValue enum.
  */
 var CardValue = {
-    ACE:   { name: "Ace" },
-    TWO:   { name: "Two" },
-    THREE: { name: "Three" },
-    FOUR:  { name: "Four" },
-    FIVE:  { name: "Five" },
-    SIX:   { name: "Six" },
-    SEVEN: { name: "Seven" },
-    EIGHT: { name: "Eight" },
-    NINE:  { name: "Nine" },
-    TEN:   { name: "Ten" },
-    JACK:  { name: "Jack" },
-    QUEEN: { name: "Queen" },
-    KING:  { name: "King" },
+    ACE:   { name: "Ace", symbol: "A" },
+    TWO:   { name: "Two", symbol: "2" },
+    THREE: { name: "Three", symbol: "3" },
+    FOUR:  { name: "Four", symbol: "4" },
+    FIVE:  { name: "Five", symbol: "5" },
+    SIX:   { name: "Six", symbol: "6" },
+    SEVEN: { name: "Seven", symbol: "7" },
+    EIGHT: { name: "Eight", symbol: "8" },
+    NINE:  { name: "Nine", symbol: "9" },
+    TEN:   { name: "Ten", symbol: "10" },
+    JACK:  { name: "Jack", symbol: "J" },
+    QUEEN: { name: "Queen", symbol: "Q" },
+    KING:  { name: "King", symbol: "K" },
 };
 CardValue.ALL_VALUES = [
             CardValue.ACE,
