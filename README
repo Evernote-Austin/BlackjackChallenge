@@ -16,6 +16,6 @@ https://github.com/Evernote-Austin/BlackjackChallenge
 
 You will find the code to get you started in the html/ directory.  The project
 was created as a Qt Creator HTML 5 app in case you wish to add any native hooks
-to your game.  However, it is perfectly acceptable if decide to only play with
-the code in the html/ directory.
+to your game.  However, it is perfectly acceptable if you decide to only play
+with the code in the html/ directory.
 
